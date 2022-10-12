@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 792511bc7faf8024d89dc79103d13ed9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_tilemap: {instanceID: 0}
+  - m_Vida: {fileID: 11400000, guid: 4138b70cae029ee4f88f6512f2a42146, type: 2}
+  - m_vidaEvent: {fileID: 11400000, guid: e6f50d0a582635648ab022308e47cd77, type: 2}
+  - m_Dinero: {instanceID: 0}
+  - m_DineroEvent: {instanceID: 0}
+  - m_Vida: {instanceID: 0}
+  - m_vidaEvent: {instanceID: 0}
+  - m_Dinero: {instanceID: 0}
+  - m_DineroEvent: {instanceID: 0}
+  - m_Oleadas: {instanceID: 0}
+  - m_OleadasEvent: {instanceID: 0}
+  - m_constructionTilemap: {instanceID: 0}
+  - m_instanceTorreta: {instanceID: 0}
+  - m_PanelConstruccion: {instanceID: 0}
+  - m_torretasInfo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

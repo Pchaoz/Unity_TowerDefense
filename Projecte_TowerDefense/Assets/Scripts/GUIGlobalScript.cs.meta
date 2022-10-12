@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0f9e75c8b4c20e4988db839b92d7bf6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_vida: {fileID: 11400000, guid: 4138b70cae029ee4f88f6512f2a42146, type: 2}
+  - m_oro: {fileID: 11400000, guid: 934060450dbbf174dad8e13792f6abee, type: 2}
+  - m_oleada: {fileID: 11400000, guid: 834c7fc1753021a4fb9ffa9fb153fc9d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

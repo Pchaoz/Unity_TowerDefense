@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ff055cf45ca566d4fbe6d088d6f2e5a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_EnemyMuerteRewardEvent: {instanceID: 0}
+  - m_EnemyDiesEvent: {instanceID: 0}
+  defaultReferences: []
+  defaultReferences:
+  - m_EnemyMuerteRewardEvent: {instanceID: 0}
+  - m_EnemyDiesEvent: {fileID: 11400000, guid: 5b263c66d85730b49bab3a74f8b45bac, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
